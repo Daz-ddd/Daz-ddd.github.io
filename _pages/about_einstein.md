@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a first yead PhD student at [Department of Information Systems and Analytics](https://www.comp.nus.edu.sg/about/depts/disa/), [National University of Singapore](https://www.nus.edu.sg/). My research interests mainly lie in SiChuan Dishes, Hunan Dishes and Dongbei Dishes.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Thanks to my deligence, my research work has been published in wechat moments, weibo feeds and my phone notes.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Next month, I will be back to China. Please follow my blog and check any updates of my eating life.

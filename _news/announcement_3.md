@@ -1,8 +1,11 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
-inline: true
+title: I Ate A Big Bowl of Rice on My Own!
+inline: false
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I ate a big bowl of rice on my own! :sparkles: :smile: 
+The evidence is here haha:
+
+<img src="../../assets/img/dinner_egg_tomatoes.jpg" alt="delicious dinner" width="50%">
