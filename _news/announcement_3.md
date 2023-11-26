@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Ate A Big Bowl of Rice on My Own!
+title: I Ate a Big Bowl of Rice on My Own!
 inline: false
 related_posts: false
 ---
