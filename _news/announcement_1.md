@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Another Big Secret!
-date: 2023-10-22 15:59:00-0400
+date: 2023-10-22 15:59:00-0800
 inline: false
 related_posts: false
 ---
-
+<font face="Consolas">
 WeiBird, a renowned Taiwanese singer-songwriter, presents a soul-searching journey in his song "而立" ("At Thirty"). This song is a reflection of WeiBird's personal experiences and emotions as he entered his thirties. It represents a return to his folk-rock roots, a style for which he is well known.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
@@ -26,3 +26,4 @@ Official Lyric Video on YouTube: [Watch "而立" ("At Thirty") on YouTube](https
 Song Analysis from Asian Pop Weekly: [Read the album review on Asian Pop Weekly](https://asianpopweekly.com/front-page-banner/album-review-weibird-韋禮安-sounds-of-my-life/).
 
 Song Review from KKBOX: [Explore the song's details on KKBOX](https://www.kkbox.com/hk/tc/album/PX-9AjPnQ7mrz9BgAl).
+</font>

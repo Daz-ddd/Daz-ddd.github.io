@@ -1,12 +1,12 @@
 ---
 layout: post
 title: A Big Secret!
-date: 2023-11-07 16:11:00-0400
+date: 2023-11-07 16:11:00-0800
 inline: false
 related_posts: false
 ---
 
-
+<font face="Consolas">
 Stefanie Sun, a well-known Singaporean singer and songwriter, made a significant return to the music scene with her single "余额" ("What Remains"). This song, released after a 19-year hiatus from single releases, marks a poignant moment in her career. "What Remains" was written and produced by Sun herself during the pandemic, reflecting a period of introspection and bonding with loved ones due to the altered plans caused by the global health crisis.
 
 
@@ -23,3 +23,5 @@ Article on Goody Feed: [Read more about Stefanie Sun and the song on Goody Feed]
 Lyrics with Pinyin: [Find the lyrics with Pinyin on echinesesong.com](https://www.echinesesong.com/yu-e-余额-what-reminds/yu-e-余额-what-reminds-lyrics-歌詞-with-pinyin-by-sun-yan-zi-孙燕姿-stefanie-sun/)
 
 YouTube Video: [Watch "余额" ("What Remains") on YouTube](https://www.youtube.com/watch?v=K-M6251jvXw)
+
+</font>
