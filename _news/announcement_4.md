@@ -6,14 +6,14 @@ inline: false
 related_posts: false
 ---
 
-<font face="Aptos">
+<font face="Consolas">
 What is ahead, boji?
 </font>
 <br>
 <img src="../../assets/img/boji.jpg" alt="delicious dinner" width="85%" height="auto">
 <br>
 <br>
-<font face="Aptos">
+<font face="Consolas">
 You don't play Plants vs. Zombies. You don't understand the joy of spikeweeds occupying the whole screen. A pity.
 </font>
 <br>

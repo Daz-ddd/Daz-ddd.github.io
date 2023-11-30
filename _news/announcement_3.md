@@ -6,11 +6,11 @@ inline: false
 related_posts: false
 ---
 
-<font face="Aptos">
+<font face="Consolas">
 I ate a big bowl of rice on my own! :sparkles: :smile: 
 </font>
 <br>
-<font face="Aptos">
+<font face="Consolas">
 The evidence is here haha:
 </font>
 <br>
@@ -19,5 +19,3 @@ The evidence is here haha:
 <div style="text-align:center;">
     <img src="../../assets/img/dinner_egg_tomatoes.jpg" alt="delicious dinner" width="85%" height="auto">
 </div>
-
-</font>
