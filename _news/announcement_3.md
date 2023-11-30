@@ -6,9 +6,13 @@ inline: false
 related_posts: false
 ---
 
-<font face="Consolas">
+<font face="Aptos">
 I ate a big bowl of rice on my own! :sparkles: :smile: 
+</font>
+<br>
+<font face="Aptos">
 The evidence is here haha:
+</font>
 <br>
 <br>
 
