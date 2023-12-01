@@ -10,11 +10,15 @@ related_posts: false
 What is ahead, boji?
 </font>
 <br>
+<div style="text-align:center;">
 <img src="../../assets/img/boji.jpg" alt="delicious dinner" width="85%" height="auto">
+</div>
 <br>
 <br>
 <font face="Consolas">
 You don't play Plants vs. Zombies. You don't understand the joy of spikeweeds occupying the whole screen. A pity.
 </font>
 <br>
+<div style="text-align:center;">
 <img src="../../assets/img/pvz.jpg" alt="delicious dinner" width="85%" height="auto">
+</div>
